@@ -1,16 +1,18 @@
-Free Download Source Code "Online Hotel Reservation "
+# service
+a service for reserving hotels
+"Online Hotel Reservation "
 
-FIRST Download
+After Downloading...
 
 1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2. Have your preffered code editor.
 
-3"Online Hotel Reservation "
+3. "Online Hotel Reservation "
 
-4. Download the zip file/ download winrar
+4. Download the zip file
 
-5. Extract the file and copy "Online Hotel Reservation " folder
+5. Extract the file and copy "hotel_reservation-main" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
@@ -20,14 +22,13 @@ FIRST Download
 
 6. Import db_hor.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/Online_Hotel_Reservation 
+7.Run the script http://localhost/hotel_reservation-main/ 
 
 
-**LOGIN DETAILS** 
+**ADMIN LOGIN DETAILS** 
 
 Admin
 user: admin
 pass: admin
 
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
+**MAINTAINED BY: FRANK ONYIEGO NYABOGA**
