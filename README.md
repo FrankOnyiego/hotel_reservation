@@ -83,43 +83,43 @@ sides, and returns the calculated perimeter and area.
 
 ### Module B Implementation
 
-• Equivalence Partitioning:
+#### Equivalence Partitioning:
 
-• Valid Input:
+Valid Input:
 
 > • Test the function with a valid side length and number of sides.
 
-• Invalid Side Length:
+Invalid Side Length:
 
-• Boundary Condition - Number of Sides = 3:
+> • Boundary Condition - Number of Sides = 3:
 
 > • Test the function with.3 sides and ensure the correct perimeter
 
-• Additional Scenarios:
+Additional Scenarios:
 
-• Random Values:
+Random Values:
 
 > • Test the function with a negative side length and ensure it • Test
 > the function with random side lengths and numbers of
 
-• Invalid Number of Sides: • Large Values:
+Invalid Number of Sides: • Large Values:
 
-> • Testrthe function with 2 sides and ensure it returns the • Test the
+> • Test the function with 2 sides and ensure it returns the • Test the
 > function with large side lengths and numbers of sides
 
-• Invalid Input Type:
+Invalid Input Type:
 
 > • Test the function with a non-numeric side length and ensure it
 
-• Boundary Value Analysis:
+#### Boundary Value Analysis:
 
 > • Boundary Condition - Side Length = 0:
 
-• Design Decisions:
+#### Design Decisions:
 
 > • The test cases cover a range of scenarios to.validate the
 
-• Equivalence partitioning ensures that the software handles
+Equivalence partitioning ensures that the software handles
 
 > • Test the function with a side length of 0 and ensure it returns •
 
