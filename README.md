@@ -32,7 +32,7 @@ Git was used for version control.
 ![](./ximg3x3l.png){width="9.648333333333333in"
 height="1.365in"}The following are the git logs.
 
-## Modularity Design
+## Modules Description
 
 Module A - This module identifies the shape of a regular polygon based
 on the provided number of sides. It checks for validity, handles cases
@@ -45,9 +45,9 @@ polygon given the side length and the number of sides. It validates
 input parameters, ensures a positive side length and a minimum of three
 sides, and returns the calculated perimeter and area.
 
+## Modularity
 ### Module A Implementation
-
-[Equivalence Partitioning:]{.underline}
+![Equivalence Partitioning:]{.underline}
 
 • Valid Input:
 
