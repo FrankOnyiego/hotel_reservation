@@ -10,6 +10,9 @@ HOUSSEIN MOHAMED
 **Date:**
 November 24, 2023
 
+**Student ID:**
+21857371
+
 ---
 
 ## Introduction
@@ -48,34 +51,34 @@ command: python main.py
 ### Module A Implementation
 [Equivalence Partitioning:]{.underline}
 
-• Valid Input:
+Valid Input:
 
 > • Test the function with a valid number of sides (e.g., 4) and check
 > if the correct shape name is returned.
 
-• Invalid Input - Less Than 3 Sides:
+Invalid Input - Less Than 3 Sides:
 
 > • Test the function with 2 sides and ensure it returns \"Invalid
 > Number of Sides.\"
 
-• Invalid Input - Greater Than 7 Sides:
+Invalid Input - Greater Than 7 Sides:
 
 > • Test the function with 8 sides and ensure it returns \"Number is too
 > big.\"
 
-• Display Image Option:
+Display Image Option:
 
 > • Test the function with a valid number of sides and the display image
 > option set to true. Verify the image is
 
-[Boundary Value Analysis:]{.underline}
+#### Boundary Value Analysis:
 
-• Boundary Condition - 3 Sides:
+Boundary Condition - 3 Sides:
 
 > • Test the function with 3 sides and ensure the correct shape name is
 > returned.
 
-• Boundary Condition - 7 Sides:
+Boundary Condition - 7 Sides:
 
 > • Test the function with 7 sides and ensure the correct shape name is
 > returned.
@@ -173,18 +176,18 @@ The following are the git logs.
 ##### During the development of this project, we encountered several
 challenges: Graphics Integration:
 
-• Challenge: Displaying images of polygon shapes based on user input
+>• Challenge: Displaying images of polygon shapes based on user input
 proved challenging due to
 
-• Resolution: We addressed this challenge by carefully organizing the
+>• Resolution: We addressed this challenge by carefully organizing the
 image directory structure and
 
-##### implemented for missing images. Floating-PointPrecision:
+##### Implemented for missing images. Floating-PointPrecision:
 
-• Challenge: Floating-point precision issues arose during
+>• Challenge: Floating-point precision issues arose during
 white-boxtesting, leading to test failures
 
-• assertAlmostEqual method, ensuring a morejflexible comparison of
+>• assertAlmostEqual method, ensuring a morejflexible comparison of
 floating-pointvalues with the
 
 ## Conclusion
