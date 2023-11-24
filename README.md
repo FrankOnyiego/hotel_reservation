@@ -28,9 +28,9 @@ teaching tool during this talk.
 ## Version Control
 
 Git was used for version control.
+The following are the git logs.
 
-![](./ximg3x3l.png){width="9.648333333333333in"
-height="1.365in"}The following are the git logs.
+![](./ximg3x3l.png)
 
 ## Modules Description
 
@@ -165,7 +165,7 @@ Additional scenarios address random and extreme cases,
 
 ## Challenges Faced
 
-• During the development of this project, we encountered several
+##### During the development of this project, we encountered several
 challenges: Graphics Integration:
 
 • Challenge: Displaying images of polygon shapes based on user input
@@ -174,7 +174,7 @@ proved challenging due to
 • Resolution: We addressed this challenge by carefully organizing the
 image directory structure and
 
-implemented for missing images. Floating-PointPrecision:
+##### implemented for missing images. Floating-PointPrecision:
 
 • Challenge: Floating-point precision issues arose during
 white-boxtesting, leading to test failures
