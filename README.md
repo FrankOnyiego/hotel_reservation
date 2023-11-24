@@ -113,17 +113,16 @@ sides, and returns the calculated perimeter and area.
 
 • Boundary Value Analysis:
 
-• Boundary Condition - Side Length = 0:
+> • Boundary Condition - Side Length = 0:
 
 • Design Decisions:
 
-• The test cases cover a range of scenarios to.validate the
+> • The test cases cover a range of scenarios to.validate the
 
 • Equivalence partitioning ensures that the software handles
 
 > • Test the function with a side length of 0 and ensure it returns •
->
-> •
+
 
 Boundary valuetanalysistchecks the behavior of the software
 
