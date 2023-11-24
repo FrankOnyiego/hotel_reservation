@@ -1,37 +1,3 @@
-# service
-a service for reserving hotels
-"Online Hotel Reservation "
-
-After Downloading...
-
-1.XAMPP
-
-2. Have your preffered code editor.
-
-3. "Online Hotel Reservation "
-
-4. Download the zip file
-
-5. Extract the file and copy "hotel_reservation-main" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name db_hor
-
-6. Import db_hor.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/hotel_reservation-main/ 
-
-
-**ADMIN LOGIN DETAILS** 
-
-
-
-
-> Children Math Software Student Name: HOUSSEIN MOHAMED Student
-> ID:21857371 21/11/2023
 
 Introduction
 
@@ -48,9 +14,7 @@ teaching tool during this talk.
 
 Version Control
 
-• Gitlab was used for the project.
-
-[https://gitlab.com/houssein/mohamed_houssein_21857371_ISErepo/-/tree/main]{.underline}
+Git was used for version control.
 
 ![](./ximg3x3l.png){width="9.648333333333333in"
 height="1.365in"}The following are the git logs.
@@ -152,23 +116,26 @@ Boundary valuetanalysistchecks the behavior of the software
 
 Additional scenarios address random and extreme cases,
 
-![](./tbpeazaq.png){width="3.986666666666667in"
-height="1.1516666666666666in"}![](./513fyjp5.png){width="4.493332239720035in"
-height="1.2166666666666666in"}
 
 Test Implementations
 
-> Module A
-
 • Black Box
+> Module A
+![](./513fyjp5.png){width="4.493332239720035in"
+height="1.2166666666666666in"}
 
 > Module B
+![](./tbpeazaq.png){width="3.986666666666667in"
+height="1.1516666666666666in"}
 
-• Black Box
-
+• White Box
+> Module A
 ![](./02qw5tfp.png){width="2.9116655730533685in"
-height="1.1516655730533683in"}![](./efgmk4om.png){width="3.986666666666667in"
+height="1.1516655730533683in"}
+> Module B
+![](./efgmk4om.png){width="3.986666666666667in"
 height="1.1516655730533683in"}• White Box • White Box
+
 
 > Summary Tableof Work (Traceability Matrix)
 
@@ -223,9 +190,3 @@ Q&A
 
 Your suggestions are much appreciated as we continue to develop this
 instructional program.
-
-Admin
-user: admin
-pass: admin
-
-**MAINTAINED BY: FRANK ONYIEGO NYABOGA**
