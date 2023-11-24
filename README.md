@@ -47,7 +47,7 @@ sides, and returns the calculated perimeter and area.
 
 ## Modularity
 ### Module A Implementation
-![Equivalence Partitioning:]{.underline}
+[Equivalence Partitioning:]{.underline}
 
 • Valid Input:
 
@@ -135,23 +135,24 @@ Additional scenarios address random and extreme cases,
 • Black Box
 #### Module A
 ![](./513fyjp5.png)
-{width="4.493332239720035in"
-height="1.2166666666666666in"}
+
+python blackbox/test_ModuleA.py
 
 #### Module B
 ![](./tbpeazaq.png)
-{width="3.986666666666667in"
-height="1.1516666666666666in"}
+
+python blackbox/test_ModuleB.py
 
 • White Box
 #### Module A
 ![](./02qw5tfp.png)
-{width="2.9116655730533685in"
-height="1.1516655730533683in"}
+
+python whitebox/test_ModuleA.py
+
 #### Module B
 ![](./efgmk4om.png)
-{width="3.986666666666667in"
-height="1.1516655730533683in"}• White Box • White Box
+
+python whitebox/test_ModuleB.py
 
 
 ## Summary Table of Work (Traceability Matrix)
