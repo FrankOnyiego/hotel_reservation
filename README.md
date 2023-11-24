@@ -136,23 +136,23 @@ Additional scenarios address random and extreme cases,
 #### Module A
 ![](./513fyjp5.png)
 
-python blackbox/test_ModuleA.py
+> Command: python blackbox/test_ModuleA.py
 
 #### Module B
 ![](./tbpeazaq.png)
 
-python blackbox/test_ModuleB.py
+> Command: python blackbox/test_ModuleB.py
 
 • White Box
 #### Module A
 ![](./02qw5tfp.png)
 
-python whitebox/test_ModuleA.py
+> Command: python whitebox/test_ModuleA.py
 
 #### Module B
 ![](./efgmk4om.png)
 
-python whitebox/test_ModuleB.py
+> Command: python whitebox/test_ModuleB.py
 
 
 ## Summary Table of Work (Traceability Matrix)
