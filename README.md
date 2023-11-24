@@ -120,19 +120,23 @@ Test Implementations
 
 • Black Box
 #### Module A
-![](./513fyjp5.png){width="4.493332239720035in"
+![](./513fyjp5.png)
+{width="4.493332239720035in"
 height="1.2166666666666666in"}
 
 #### Module B
-![](./tbpeazaq.png){width="3.986666666666667in"
+![](./tbpeazaq.png)
+{width="3.986666666666667in"
 height="1.1516666666666666in"}
 
 • White Box
 #### Module A
-![](./02qw5tfp.png){width="2.9116655730533685in"
+![](./02qw5tfp.png)
+{width="2.9116655730533685in"
 height="1.1516655730533683in"}
 #### Module B
-![](./efgmk4om.png){width="3.986666666666667in"
+![](./efgmk4om.png)
+{width="3.986666666666667in"
 height="1.1516655730533683in"}• White Box • White Box
 
 
