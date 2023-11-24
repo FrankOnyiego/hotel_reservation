@@ -12,7 +12,7 @@ November 24, 2023
 
 ---
 
-Introduction
+##Introduction
 
 Our goal in this project is to create an engaging software application
 that helps kids understand fundamental mathematical ideas. The program
@@ -25,14 +25,14 @@ version control procedures. We will go into the design philosophies,
 implementation specifics, and testing techniques used to create this
 teaching tool during this talk.
 
-Version Control
+##Version Control
 
 Git was used for version control.
 
 ![](./ximg3x3l.png){width="9.648333333333333in"
 height="1.365in"}The following are the git logs.
 
-Modularity Design
+##Modularity Design
 
 Module A - This module identifies the shape of a regular polygon based
 on the provided number of sides. It checks for validity, handles cases
@@ -45,7 +45,7 @@ polygon given the side length and the number of sides. It validates
 input parameters, ensures a positive side length and a minimum of three
 sides, and returns the calculated perimeter and area.
 
-Module A Implementation
+###Module A Implementation
 
 [Equivalence Partitioning:]{.underline}
 
@@ -81,7 +81,7 @@ Module A Implementation
 > • Test the function with 7 sides and ensure the correct shape name is
 > returned.
 
-Module B Implementation
+###Module B Implementation
 
 • Equivalence Partitioning:
 
@@ -130,7 +130,7 @@ Boundary valuetanalysistchecks the behavior of the software
 Additional scenarios address random and extreme cases,
 
 
-Test Implementations
+##Test Implementations
 
 • Black Box
 #### Module A
@@ -154,7 +154,7 @@ height="1.1516655730533683in"}
 height="1.1516655730533683in"}• White Box • White Box
 
 
-Summary Table of Work (Traceability Matrix)
+##Summary Table of Work (Traceability Matrix)
 
 | Module Name | Design of Test Cases | Test Code Implementation | Form of Input/Output | Data Type/s | Boundary Value Analysis (BVA) | Equivalence Partitioning (EP) | White-Box (WB) |
 |-------------|-----------------------|---------------------------|----------------------|-------------|------------------------------|-------------------------------|----------------|
@@ -162,7 +162,7 @@ Summary Table of Work (Traceability Matrix)
 | Module B    | Done                  | Done                      | float, int           | Parameter          | Yes                          | Yes                           | Yes            |
 
 
-> Challenges Faced
+##Challenges Faced
 
 • During the development of this project, we encountered several
 challenges: Graphics Integration:
@@ -181,7 +181,7 @@ white-boxtesting, leading to test failures
 • assertAlmostEqual method, ensuring a morejflexible comparison of
 floating-pointvalues with the
 
-> Conclusion
+##Conclusion
 
 To sum up, the initiative has produced a reliable and adaptable software
 tool that helps kids understand fundamental mathematical ideas. The
@@ -191,7 +191,7 @@ with the appropriate precision and recognizes polygon shapes accurately.
 Comprehensive black-box as well as white-box testing is implemented to
 guarantee the software\'s correctness and dependability.
 
-> Future Work
+##Future Work
 
 The following are potential future directions for the project\'s
 extension: Additional Shapes:
@@ -209,7 +209,7 @@ extension: Additional Shapes:
 > • To improve the learning process, incorporate extra instructional
 > elements like tutorials, interactive activities, and quizzes.
 
-> Q&A
+##Q&A
 
 Your suggestions are much appreciated as we continue to develop this
 instructional program.
