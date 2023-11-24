@@ -1,4 +1,3 @@
-
 Introduction
 
 Our goal in this project is to create an engaging software application
@@ -141,7 +140,8 @@ height="1.1516655730533683in"}
 height="1.1516655730533683in"}• White Box • White Box
 
 
-> Summary Table of Work (Traceability Matrix)
+Summary Table of Work (Traceability Matrix)
+
 | Module Name | Design of Test Cases | Test Code Implementation | Form of Input/Output | Data Type/s | Boundary Value Analysis (BVA) | Equivalence Partitioning (EP) | White-Box (WB) |
 |-------------|-----------------------|---------------------------|----------------------|-------------|------------------------------|-------------------------------|----------------|
 | Module A    | Done                  | Done                      | int                  | Parameter, Boolean | Yes                          | Yes                           | Yes            |
