@@ -1,3 +1,17 @@
+# Children Math Software 
+
+## Report
+
+---
+
+**Author:**
+HOUSSEIN MOHAMED
+
+**Date:**
+November 24, 2023
+
+---
+
 Introduction
 
 Our goal in this project is to create an engaging software application
