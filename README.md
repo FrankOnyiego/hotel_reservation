@@ -25,13 +25,6 @@ version control procedures. We will go into the design philosophies,
 implementation specifics, and testing techniques used to create this
 teaching tool during this talk.
 
-## Version Control
-
-Git was used for version control.
-The following are the git logs.
-
-![](./ximg3x3l.png)
-
 ## Modules Description
 
 Module A - This module identifies the shape of a regular polygon based
@@ -45,7 +38,9 @@ polygon given the side length and the number of sides. It validates
 input parameters, ensures a positive side length and a minimum of three
 sides, and returns the calculated perimeter and area.
 
-## Modularity
+main.py - This is the main program to run the production code.
+
+## Test Implementation
 ### Module A Implementation
 [Equivalence Partitioning:]{.underline}
 
@@ -129,7 +124,7 @@ Boundary valuetanalysistchecks the behavior of the software
 Additional scenarios address random and extreme cases,
 
 
-## Test Implementations
+## Test Cases
 
 • Black Box
 #### Module A
@@ -161,6 +156,13 @@ Additional scenarios address random and extreme cases,
 | Module A    | Done                  | Done                      | int                  | Parameter, Boolean | Yes                          | Yes                           | Yes            |
 | Module B    | Done                  | Done                      | float, int           | Parameter          | Yes                          | Yes                           | Yes            |
 
+
+## Version Control
+
+Git was used for version control.
+The following are the git logs.
+
+![](./ximg3x3l.png)
 
 ## Challenges Faced
 
