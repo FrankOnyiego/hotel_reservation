@@ -38,9 +38,13 @@ polygon given the side length and the number of sides. It validates
 input parameters, ensures a positive side length and a minimum of three
 sides, and returns the calculated perimeter and area.
 
+## Modularity
 main.py - This is the main program to run the production code.
+command: python main.py
 
-## Test Implementation
+![](./main.png)
+
+## Test Cases
 ### Module A Implementation
 [Equivalence Partitioning:]{.underline}
 
@@ -124,7 +128,7 @@ Boundary valuetanalysistchecks the behavior of the software
 Additional scenarios address random and extreme cases,
 
 
-## Test Cases
+## Test implementation and execution
 
 • Black Box
 #### Module A
